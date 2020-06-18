@@ -6,6 +6,7 @@
 
 ```
 # System with clients if you want use to do some pygame online game.
+# To start continue the game go in GUI > GameGUI and in run() command is able to do what you want.
 
 :)
 
