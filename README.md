@@ -34,6 +34,3 @@ __init__.py >
 # You can able name and things.
 
 ```
-
-My discord.
-(GoT) Rina#8637 // I never change.
